@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.algorithm;
 
 public class MergeSort {
 

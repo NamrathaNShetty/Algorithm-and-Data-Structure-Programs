@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.algorithm;
 
 //to find prime numbers from 1 to 1000
 public class PrimeNumber {

@@ -1,6 +1,4 @@
-package com.bridgelabz;
-
-import java.util.Scanner;
+package com.algorithm;
 
 public class BubbleSort {
 

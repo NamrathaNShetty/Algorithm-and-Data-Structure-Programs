@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.algorithm;
 
 //to find the palindrome and anagram of the prime numbers from 1 to 1000
 public class PrimeAnagramPalindrome {
